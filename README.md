@@ -1,4 +1,5 @@
 ##Hybrid Movie Recommendation System
+
 #Project Overview
 
 This project builds a hybrid movie recommendation system using the MovieLens 100k dataset. It combines collaborative filtering and content-based approaches to generate personalized movie recommendations.
